@@ -1,0 +1,37 @@
+1. Yes, we used Tortoise SVN in CSSE 232.
+
+2. Very very little.  I learned a few basic commands in 132 for the Ubuntu command line
+   but I really only remember how to cd into directories.
+   
+3. "add" tells git that you want this file to be committed in the next commit.
+
+4. "commit" commits everything that has been "add"ed to your local repository
+
+5. "push" pushes all of your local commitments onto the working repo for the project.
+
+6. Two people on the team.  There are 2 copies. The local copy on my computer and the 
+   remote copy.
+   
+7. There are 3 commits so far.
+
+8. I created it.
+
+9. It changed the README file.
+
+10. Two members.  Three branches. 
+
+11. Zero. One.
+
+12. "branch" creates a separate location for an individual to work on the code from
+	a repository.
+
+13. "checkout" switches the current branch you are working on to the specified one.
+
+14. Two. Three versions.
+
+15. Two. Two merges. One was fast-forward.
+
+16. Three branches.
+
+17. No they are behind the master because the master contains the changes that were 
+	made on branches but the user branches only have their individual changes.
