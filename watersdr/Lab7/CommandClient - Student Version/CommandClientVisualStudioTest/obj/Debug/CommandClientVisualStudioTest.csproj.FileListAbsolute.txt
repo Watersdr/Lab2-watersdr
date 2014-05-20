@@ -1,0 +1,26 @@
+C:\Users\hewner\Contacts\Desktop\CommandClient\CommandClientVisualStudioTest\obj\Debug\CommandClientVisualStudioTest.csprojResolveAssemblyReference.cache
+C:\Users\hewner\Contacts\Desktop\CommandClient\CommandClientVisualStudioTest\bin\Debug\CommandClientVisualStudioTest.dll
+C:\Users\hewner\Contacts\Desktop\CommandClient\CommandClientVisualStudioTest\bin\Debug\CommandClientVisualStudioTest.pdb
+C:\Users\hewner\Contacts\Desktop\CommandClient\CommandClientVisualStudioTest\bin\Debug\CommandClient.dll
+C:\Users\hewner\Contacts\Desktop\CommandClient\CommandClientVisualStudioTest\bin\Debug\Rhino.Mocks.dll
+C:\Users\hewner\Contacts\Desktop\CommandClient\CommandClientVisualStudioTest\bin\Debug\CommandClient.pdb
+C:\Users\hewner\Contacts\Desktop\CommandClient\CommandClientVisualStudioTest\bin\Debug\CommandClient.xml
+C:\Users\hewner\Contacts\Desktop\CommandClient\CommandClientVisualStudioTest\obj\Debug\CommandClientVisualStudioTest.dll
+C:\Users\hewner\Contacts\Desktop\CommandClient\CommandClientVisualStudioTest\obj\Debug\CommandClientVisualStudioTest.pdb
+C:\Users\hewner\Contacts\Desktop\CommandClient - Student Version\CommandClientVisualStudioTest\bin\Debug\CommandClientVisualStudioTest.dll
+C:\Users\hewner\Contacts\Desktop\CommandClient - Student Version\CommandClientVisualStudioTest\bin\Debug\CommandClientVisualStudioTest.pdb
+C:\Users\hewner\Contacts\Desktop\CommandClient - Student Version\CommandClientVisualStudioTest\bin\Debug\CommandClient.dll
+C:\Users\hewner\Contacts\Desktop\CommandClient - Student Version\CommandClientVisualStudioTest\bin\Debug\Rhino.Mocks.dll
+C:\Users\hewner\Contacts\Desktop\CommandClient - Student Version\CommandClientVisualStudioTest\bin\Debug\CommandClient.pdb
+C:\Users\hewner\Contacts\Desktop\CommandClient - Student Version\CommandClientVisualStudioTest\bin\Debug\CommandClient.xml
+C:\Users\hewner\Contacts\Desktop\CommandClient - Student Version\CommandClientVisualStudioTest\obj\Debug\CommandClientVisualStudioTest.csprojResolveAssemblyReference.cache
+C:\Users\hewner\Contacts\Desktop\CommandClient - Student Version\CommandClientVisualStudioTest\obj\Debug\CommandClientVisualStudioTest.dll
+C:\Users\hewner\Contacts\Desktop\CommandClient - Student Version\CommandClientVisualStudioTest\obj\Debug\CommandClientVisualStudioTest.pdb
+C:\Users\watersdr\Documents\RoseClasses\SQA\watersdr\Lab7\CommandClient - Student Version\CommandClientVisualStudioTest\bin\Debug\CommandClientVisualStudioTest.dll
+C:\Users\watersdr\Documents\RoseClasses\SQA\watersdr\Lab7\CommandClient - Student Version\CommandClientVisualStudioTest\bin\Debug\CommandClientVisualStudioTest.pdb
+C:\Users\watersdr\Documents\RoseClasses\SQA\watersdr\Lab7\CommandClient - Student Version\CommandClientVisualStudioTest\bin\Debug\CommandClient.dll
+C:\Users\watersdr\Documents\RoseClasses\SQA\watersdr\Lab7\CommandClient - Student Version\CommandClientVisualStudioTest\bin\Debug\CommandClient.pdb
+C:\Users\watersdr\Documents\RoseClasses\SQA\watersdr\Lab7\CommandClient - Student Version\CommandClientVisualStudioTest\bin\Debug\CommandClient.xml
+C:\Users\watersdr\Documents\RoseClasses\SQA\watersdr\Lab7\CommandClient - Student Version\CommandClientVisualStudioTest\obj\Debug\CommandClientVisualStudioTest.csprojResolveAssemblyReference.cache
+C:\Users\watersdr\Documents\RoseClasses\SQA\watersdr\Lab7\CommandClient - Student Version\CommandClientVisualStudioTest\obj\Debug\CommandClientVisualStudioTest.dll
+C:\Users\watersdr\Documents\RoseClasses\SQA\watersdr\Lab7\CommandClient - Student Version\CommandClientVisualStudioTest\obj\Debug\CommandClientVisualStudioTest.pdb

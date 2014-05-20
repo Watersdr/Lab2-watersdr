@@ -1,0 +1,5 @@
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Labs\LabDesignForTesting\ExpediaDB\bin\Debug\ExpediaDB.dacpac
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Labs\LabDesignForTesting\ExpediaDB\bin\Debug\ExpediaDB.dll
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Labs\LabDesignForTesting\ExpediaDB\bin\Debug\ExpediaDB.pdb
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Labs\LabDesignForTesting\ExpediaDB\obj\Debug\ExpediaDB.dll
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Labs\LabDesignForTesting\ExpediaDB\obj\Debug\ExpediaDB.pdb

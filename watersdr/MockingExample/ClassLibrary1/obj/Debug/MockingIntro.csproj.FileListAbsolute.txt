@@ -1,0 +1,10 @@
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Sriram's Class Dump\Lectures\376 Sample Code\ClassLibrary1\Backup\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Sriram's Class Dump\Lectures\376 Sample Code\ClassLibrary1\Backup\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Sriram's Class Dump\Lectures\376 Sample Code\ClassLibrary1\Backup\ClassLibrary1\obj\Debug\MockingIntro.csprojResolveAssemblyReference.cache
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Sriram's Class Dump\Lectures\376 Sample Code\ClassLibrary1\Backup\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Sriram's Class Dump\Lectures\376 Sample Code\ClassLibrary1\Backup\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Week 4\Day 2\Backup\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Week 4\Day 2\Backup\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Week 4\Day 2\Backup\ClassLibrary1\obj\Debug\MockingIntro.csprojResolveAssemblyReference.cache
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Week 4\Day 2\Backup\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Week 4\Day 2\Backup\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

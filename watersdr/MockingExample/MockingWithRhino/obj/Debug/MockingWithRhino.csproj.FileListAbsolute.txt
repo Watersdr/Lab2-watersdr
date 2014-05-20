@@ -1,0 +1,10 @@
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Sriram's Class Dump\Lectures\376 Sample Code\ClassLibrary1\Backup\MockingWithRhino\obj\Debug\MockingWithRhino.csprojResolveAssemblyReference.cache
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Sriram's Class Dump\Lectures\376 Sample Code\ClassLibrary1\Backup\MockingWithRhino\bin\Debug\MockingWithRhino.dll
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Sriram's Class Dump\Lectures\376 Sample Code\ClassLibrary1\Backup\MockingWithRhino\bin\Debug\MockingWithRhino.pdb
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Sriram's Class Dump\Lectures\376 Sample Code\ClassLibrary1\Backup\MockingWithRhino\bin\Debug\ClassLibrary1.dll
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Sriram's Class Dump\Lectures\376 Sample Code\ClassLibrary1\Backup\MockingWithRhino\bin\Debug\nunit.framework.dll
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Sriram's Class Dump\Lectures\376 Sample Code\ClassLibrary1\Backup\MockingWithRhino\bin\Debug\Rhino.Mocks.dll
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Sriram's Class Dump\Lectures\376 Sample Code\ClassLibrary1\Backup\MockingWithRhino\bin\Debug\ClassLibrary1.pdb
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Sriram's Class Dump\Lectures\376 Sample Code\ClassLibrary1\Backup\MockingWithRhino\bin\Debug\nunit.framework.xml
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Sriram's Class Dump\Lectures\376 Sample Code\ClassLibrary1\Backup\MockingWithRhino\obj\Debug\MockingWithRhino.dll
+C:\Users\hewner\Dropbox\Win-Documents\CSSE376-Quality Assurance\Sriram's Class Dump\Lectures\376 Sample Code\ClassLibrary1\Backup\MockingWithRhino\obj\Debug\MockingWithRhino.pdb
